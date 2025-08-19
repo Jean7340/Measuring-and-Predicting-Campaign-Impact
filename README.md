@@ -31,6 +31,8 @@ The data in these projects range from bank customer profiles, to physician presc
 
 The analytical mindset is not just to fit models, but to ask: *what kind of variation in the data actually identifies the effect we care about?*
 
+![Evaluating Promotions 1](evaluating_promotions_1.png)
+
 ### 3. Methods as Tools  
 Across cases, a variety of methods come into play:  
 - **Predictive models** (e.g., logistic regression, decision trees) to rank customers by likelihood of response.  
